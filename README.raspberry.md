@@ -1,3 +1,10 @@
+Build the image on Raspberry Pi
+===============================
+
+```
+docker build -t ymettier/rpi-docker-letsencrypt-nginx-proxy-companion:latest .
+```
+
 Maintaining this fork
 =====================
 
